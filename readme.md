@@ -1,4 +1,5 @@
-# dostribution of the org dataset
+# distribution of the org dataset
+```
 final_decision
 yes      552
 no       338
@@ -19,3 +20,4 @@ yes      139
 no        82
 maybe     24
 Name: count, dtype: int64
+```
