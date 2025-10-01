@@ -1,0 +1,12 @@
+You are given a post from a specific domain. 
+Decide whether the text indicates stress or no stress.
+
+Domain: {subreddit}
+Text: {text}
+
+Options:
+A. Stress
+B. No Stress
+
+Please provide only the letter of your choice (A or B).
+Answer:

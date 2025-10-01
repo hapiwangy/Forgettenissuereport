@@ -1,0 +1,13 @@
+You are given a question and its supporting context. 
+Choose the most appropriate answer from the given options.
+
+Question: {question}
+Context: {context}
+
+Options:
+A. Yes
+B. No
+C. Maybe
+
+Please provide only the letter of your choice (A, B, or C).
+Answer:
