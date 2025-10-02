@@ -1,0 +1,8 @@
+entropy
+epoch
+grad_norm
+learning_rate
+loss
+mean_token_accuracy
+num_tokens
+step

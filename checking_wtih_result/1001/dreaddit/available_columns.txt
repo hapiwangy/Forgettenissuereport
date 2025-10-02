@@ -1,0 +1,15 @@
+entropy
+epoch
+grad_norm
+learning_rate
+loss
+mean_token_accuracy
+num_tokens
+step
+eval_entropy
+eval_loss
+eval_mean_token_accuracy
+eval_num_tokens
+eval_runtime
+eval_samples_per_second
+eval_steps_per_second
